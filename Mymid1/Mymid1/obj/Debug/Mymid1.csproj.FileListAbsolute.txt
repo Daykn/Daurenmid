@@ -1,0 +1,6 @@
+C:\Users\Даурен\Desktop\Mymid1\Mymid1\bin\Debug\Mymid1.exe.config
+C:\Users\Даурен\Desktop\Mymid1\Mymid1\bin\Debug\Mymid1.exe
+C:\Users\Даурен\Desktop\Mymid1\Mymid1\bin\Debug\Mymid1.pdb
+C:\Users\Даурен\Desktop\Mymid1\Mymid1\obj\Debug\Mymid1.csprojResolveAssemblyReference.cache
+C:\Users\Даурен\Desktop\Mymid1\Mymid1\obj\Debug\Mymid1.exe
+C:\Users\Даурен\Desktop\Mymid1\Mymid1\obj\Debug\Mymid1.pdb
