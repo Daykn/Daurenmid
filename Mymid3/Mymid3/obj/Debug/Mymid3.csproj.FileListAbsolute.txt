@@ -1,0 +1,5 @@
+C:\Users\Даурен\Desktop\Mymid3\Mymid3\bin\Debug\Mymid3.exe.config
+C:\Users\Даурен\Desktop\Mymid3\Mymid3\bin\Debug\Mymid3.exe
+C:\Users\Даурен\Desktop\Mymid3\Mymid3\bin\Debug\Mymid3.pdb
+C:\Users\Даурен\Desktop\Mymid3\Mymid3\obj\Debug\Mymid3.exe
+C:\Users\Даурен\Desktop\Mymid3\Mymid3\obj\Debug\Mymid3.pdb
